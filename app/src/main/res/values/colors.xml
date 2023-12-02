@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_light_primary">#3B3B6A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="constraintColor">#CBC8C7</color>
+    <color name="buttonColor">#3B3B6A</color>
+</resources>
